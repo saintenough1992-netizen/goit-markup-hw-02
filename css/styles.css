@@ -25,11 +25,11 @@ h3{
 }
 h2{
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
 }
 h3, h2{
     color: #2E2F42;
-    letter-spacing: 0.02 em;
+    letter-spacing: 0.02em;
 }
 .header_nav a:hover,
 .header_nav a:focus{
@@ -65,10 +65,10 @@ h3, h2{
     background-color: #2E2F42;
 }
 .banner_main h1{
-        color: #fff;
-        text-align: center;
-        font-size: 56px;
-        line-height: 1.07;
+    color: #fff;
+    text-align: center;
+    font-size: 56px;
+    line-height: 1.07;
 }
 .banner_main button{
     background-color: #4D5AE5;
@@ -76,6 +76,8 @@ h3, h2{
     font-weight: 500;
     cursor: pointer;
     letter-spacing: 0.04em;
+    font-size: 16px;
+    line-height: 1.5;
 }
 .banner_main button:hover,
 .banner_main button:focus{
