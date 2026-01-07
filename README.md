@@ -1,1 +1,1 @@
-https://saintenough1992-netizen.github.io/goit-markup-hw-01/
+https://saintenough1992-netizen.github.io/goit-markup-hw-02/
