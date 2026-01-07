@@ -7,6 +7,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    background-color: #fff;
 }
 a{
     text-decoration: none;
@@ -24,12 +25,14 @@ h3{
 }
 h2{
     font-size: 36px;
-    line-height: 1.05;
+    line-height: 1.1;
 }
 h3, h2{
     color: #2E2F42;
+    letter-spacing: 0.02 em;
 }
-.header_nav a:hover{
+.header_nav a:hover,
+.header_nav a:focus{
     color:#404BBF;
 }
 .header_nav a:active{
@@ -72,8 +75,9 @@ h3, h2{
     color: #fff;
     font-weight: 500;
     cursor: pointer;
+    letter-spacing: 0.04em;
 }
-.banner_main button:hover
+.banner_main button:hover,
 .banner_main button:focus{
     background-color: #404BBF;
 }
